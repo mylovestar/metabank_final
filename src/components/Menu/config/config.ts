@@ -51,7 +51,7 @@ const config: (t: ContextApi['t']) => ConfigMenuItemsType[] = (t) => [
   },  
   {
     label: t('About Us'),
-    href: '/#',
+    href: '/aboutus',
     icon: 'Groups',
     showItemsOnMobile: false,
   },  

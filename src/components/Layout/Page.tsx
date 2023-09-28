@@ -64,17 +64,6 @@ const Page: React.FC<PageProps> = ({ children, symbol, ...props }) => {
       <StyledPage {...props}>{children}
 
       </StyledPage>
-      <div style={{ textAlign: 'center' }}>
-        <Link
-          small
-          external
-          ellipsis
-          href="https://bet.hodlx.exchange/rangefinder/hodlx"
-          style={{ justifyContent: "center", width: "auto" }}
-        >
-          <StyledImg src="/images/hodl_bet.gif" style={{ marginBottom: "50px", marginTop: "50px" }} alt='' />
-        </Link>
-      </div>
     </>
   )
 }
