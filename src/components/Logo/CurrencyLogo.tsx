@@ -40,7 +40,7 @@ export default function CurrencyLogo({
   }
 
   if (currency !== undefined && currency.symbol === 'MBC') {
-    return <StyledLogo size={size} srcs={["/images/logo.png"]} alt={`${currency?.symbol ?? 'token'} logo`} style={style} />
+    return <StyledLogo size={size} srcs={["/images/mbc.png"]} alt={`${currency?.symbol ?? 'token'} logo`} style={style} />
   }
 
   return <StyledLogo size={size} srcs={srcs} alt={`${currency?.symbol ?? 'token'} logo`} style={style} />
