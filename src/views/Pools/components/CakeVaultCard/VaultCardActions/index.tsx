@@ -2,7 +2,7 @@ import BigNumber from 'bignumber.js'
 import Balance from 'components/Balance'
 
 import styled from 'styled-components'
-import { Flex, Text, Box, Skeleton } from '@metabank/uikit'
+import { Flex, Text, Box, Skeleton } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { DeserializedPool, VaultKey } from 'state/types'
 import { BIG_ZERO } from 'utils/bigNumber'

@@ -1,4 +1,4 @@
-import { Card, CardBody, Text, WaitIcon } from '@metabank/uikit'
+import { Card, CardBody, Text, WaitIcon } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { NodeRound, BetPosition } from 'state/types'
 import useTheme from 'hooks/useTheme'

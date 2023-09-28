@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { Svg, SvgProps } from '@metabank/uikit'
+import { Svg, SvgProps } from '@metabankswap/uikit'
 
 const Icon: React.FC<SvgProps & { isDark }> = ({ isDark, ...props }) => {
   return (

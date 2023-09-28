@@ -10,7 +10,7 @@ import {
   LinkExternal,
   Link,
   TokenPairImage,
-} from '@metabank/uikit'
+} from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { useWeb3React } from '@web3-react/core'
 import ConnectWalletButton from 'components/ConnectWalletButton'

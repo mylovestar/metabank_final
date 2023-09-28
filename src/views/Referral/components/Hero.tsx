@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Heading, Text } from '@metabank/uikit'
+import { Heading, Text } from '@metabankswap/uikit'
 import Container from 'components/Layout/Container'
 import { useGetReferrate } from 'hooks/useTotalRefCommission'
 

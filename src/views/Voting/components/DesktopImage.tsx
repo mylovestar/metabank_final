@@ -1,4 +1,4 @@
-import { Image } from '@metabank/uikit'
+import { Image } from '@metabankswap/uikit'
 import styled from 'styled-components'
 
 const DesktopImage = styled(Image)`

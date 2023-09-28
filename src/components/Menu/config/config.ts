@@ -1,4 +1,4 @@
-import { MenuItemsType, DropdownMenuItemType } from '@metabank/uikit'
+import { MenuItemsType, DropdownMenuItemType } from '@metabankswap/uikit'
 import { ContextApi } from 'contexts/Localization/types'
 import { nftsBaseUrl } from 'views/Nft/market/constants'
 

@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Box } from '@metabank/uikit'
+import { Box } from '@metabankswap/uikit'
 import Container from '../Layout/Container'
 import { PageHeaderProps } from './types'
 

@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Flex, Box } from '@metabank/uikit'
+import { Flex, Box } from '@metabankswap/uikit'
 import Image from 'next/image'
 import { TeamRanksProps } from '../../types'
 import CakerBunny from '../../pngs/cakers.png'

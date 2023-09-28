@@ -1,4 +1,4 @@
-import { ChainId, Pair, Token } from '@metabank/sdk'
+import { ChainId, Pair, Token } from '@metabankswap/sdk'
 import { differenceInDays } from 'date-fns'
 import flatMap from 'lodash/flatMap'
 import { useCallback, useMemo } from 'react'

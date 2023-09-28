@@ -1,4 +1,4 @@
-import { Button, AutoRenewIcon, Skeleton } from '@metabank/uikit'
+import { Button, AutoRenewIcon, Skeleton } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { VaultKey } from 'state/types'
 import { useVaultApprove } from '../../../hooks/useApprove'

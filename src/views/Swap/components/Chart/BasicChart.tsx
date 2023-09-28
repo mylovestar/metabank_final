@@ -1,4 +1,4 @@
-import { Box, ButtonMenu, ButtonMenuItem, Flex, Text } from '@metabank/uikit'
+import { Box, ButtonMenu, ButtonMenuItem, Flex, Text } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { useState, memo } from 'react'
 import { useFetchPairPrices } from 'state/swap/hooks'

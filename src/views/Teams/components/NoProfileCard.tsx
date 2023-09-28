@@ -1,4 +1,4 @@
-import { Button, Card, CardBody, Flex, Heading, Text } from '@metabank/uikit'
+import { Button, Card, CardBody, Flex, Heading, Text } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import Link from 'next/link'
 

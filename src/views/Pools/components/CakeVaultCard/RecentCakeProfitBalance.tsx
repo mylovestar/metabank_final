@@ -1,4 +1,4 @@
-import { Text, TooltipText, useTooltip } from '@metabank/uikit'
+import { Text, TooltipText, useTooltip } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import Balance from 'components/Balance'
 

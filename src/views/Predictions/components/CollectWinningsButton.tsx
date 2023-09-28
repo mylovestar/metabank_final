@@ -1,4 +1,4 @@
-import { Button, ButtonProps, useModal } from '@metabank/uikit'
+import { Button, ButtonProps, useModal } from '@metabankswap/uikit'
 import CollectRoundWinningsModal from './CollectRoundWinningsModal'
 
 interface CollectWinningsButtonProps extends ButtonProps {

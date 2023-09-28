@@ -1,4 +1,4 @@
-import { InstagramIcon, TwitterIcon } from '@metabank/uikit'
+import { InstagramIcon, TwitterIcon } from '@metabankswap/uikit'
 import { ContextApi } from 'contexts/Localization/types'
 
 type ArtistConfigType = {

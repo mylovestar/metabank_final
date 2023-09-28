@@ -1,4 +1,4 @@
-import { HelpIcon, useTooltip, Box, BoxProps, Placement } from '@metabank/uikit'
+import { HelpIcon, useTooltip, Box, BoxProps, Placement } from '@metabankswap/uikit'
 import styled from 'styled-components'
 
 interface Props extends BoxProps {

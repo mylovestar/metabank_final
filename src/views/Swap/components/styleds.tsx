@@ -1,4 +1,4 @@
-import { ErrorIcon, Flex, Text } from '@metabank/uikit'
+import { ErrorIcon, Flex, Text } from '@metabankswap/uikit'
 import { AutoColumn } from 'components/Layout/Column'
 import styled, { css } from 'styled-components'
 

@@ -1,6 +1,6 @@
 import { Fragment, memo } from 'react'
-import { Trade } from '@metabank/sdk'
-import { Text, Flex, ChevronRightIcon } from '@metabank/uikit'
+import { Trade } from '@metabankswap/sdk'
+import { Text, Flex, ChevronRightIcon } from '@metabankswap/uikit'
 import { unwrappedToken } from 'utils/wrappedCurrency'
 
 export default memo(function SwapRoute({ trade }: { trade: Trade }) {

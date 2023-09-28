@@ -1,4 +1,4 @@
-import { Button, Flex, Text } from '@metabank/uikit'
+import { Button, Flex, Text } from '@metabankswap/uikit'
 import BigNumber from 'bignumber.js'
 import ConnectWalletButton from 'components/ConnectWalletButton'
 import { ToastDescriptionWithTx } from 'components/Toast'

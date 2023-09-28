@@ -1,5 +1,5 @@
 import { createAction } from '@reduxjs/toolkit'
-import { ChainId } from '@metabank/sdk'
+import { ChainId } from '@metabankswap/sdk'
 
 export interface SerializableTransactionReceipt {
   to: string

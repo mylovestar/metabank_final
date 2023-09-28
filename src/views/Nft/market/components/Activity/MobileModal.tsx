@@ -1,5 +1,5 @@
-import { InjectedModalProps, Modal, Flex, Text, Button, Link, BinanceIcon, Box } from '@metabank/uikit'
-import { Price } from '@metabank/sdk'
+import { InjectedModalProps, Modal, Flex, Text, Button, Link, BinanceIcon, Box } from '@metabankswap/uikit'
+import { Price } from '@metabankswap/sdk'
 import useTheme from 'hooks/useTheme'
 import { Activity, NftToken } from 'state/nftMarket/types'
 import { LightGreyCard } from 'components/Card'

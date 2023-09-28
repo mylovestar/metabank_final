@@ -1,4 +1,4 @@
-import { Progress, ProgressProps } from '@metabank/uikit'
+import { Progress, ProgressProps } from '@metabankswap/uikit'
 import { useCurrentBlock } from 'state/block/hooks'
 
 interface BlockProgressProps extends ProgressProps {

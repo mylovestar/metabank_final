@@ -1,5 +1,5 @@
-import { Trade, TradeType } from '@metabank/sdk'
-import { Text } from '@metabank/uikit'
+import { Trade, TradeType } from '@metabankswap/sdk'
+import { Text } from '@metabankswap/uikit'
 import { Field } from 'state/swap/actions'
 import { useTranslation } from 'contexts/Localization'
 import { useUserSlippageTolerance } from 'state/user/hooks'

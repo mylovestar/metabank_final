@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Heading, Text } from '@metabank/uikit'
+import { Heading, Text } from '@metabankswap/uikit'
 import { useProfile } from 'state/profile/hooks'
 import { useTranslation } from 'contexts/Localization'
 import NoProfileCard from './NoProfileCard'

@@ -1,4 +1,4 @@
-import { Token } from '@metabank/sdk'
+import { Token } from '@metabankswap/sdk'
 import { SerializedToken } from 'config/constants/types'
 import { parseUnits } from '@ethersproject/units'
 

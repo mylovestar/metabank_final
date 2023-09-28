@@ -1,4 +1,4 @@
-import { Heading, Text } from '@metabank/uikit'
+import { Heading, Text } from '@metabankswap/uikit'
 import { NormalComponents, SpecialComponents } from 'react-markdown/src/ast-to-react'
 import styled from 'styled-components'
 

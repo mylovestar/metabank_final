@@ -1,5 +1,5 @@
-import { Currency, Pair, Token } from '@metabank/sdk'
-import { Button, ChevronDownIcon, Text, useModal, Flex, Box, MetamaskIcon } from '@metabank/uikit'
+import { Currency, Pair, Token } from '@metabankswap/sdk'
+import { Button, ChevronDownIcon, Text, useModal, Flex, Box, MetamaskIcon } from '@metabankswap/uikit'
 import styled from 'styled-components'
 import { registerToken } from 'utils/wallet'
 import { isAddress } from 'utils'

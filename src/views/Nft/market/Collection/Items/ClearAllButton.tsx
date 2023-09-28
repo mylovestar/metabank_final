@@ -1,4 +1,4 @@
-import { Button, ButtonProps } from '@metabank/uikit'
+import { Button, ButtonProps } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { useAppDispatch } from 'state'
 import { removeAllItemFilters } from 'state/nftMarket/reducer'

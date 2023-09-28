@@ -1,4 +1,4 @@
-import { Flex, Image, Button, IconButton } from '@metabank/uikit'
+import { Flex, Image, Button, IconButton } from '@metabankswap/uikit'
 import styled from 'styled-components'
 
 export const StyledItemRow = styled(Flex)`

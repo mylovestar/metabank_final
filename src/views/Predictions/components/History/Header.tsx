@@ -9,7 +9,7 @@ import {
   Text,
   ButtonMenu,
   ButtonMenuItem,
-} from '@metabank/uikit'
+} from '@metabankswap/uikit'
 import { useAppDispatch } from 'state'
 import { HistoryFilter } from 'state/types'
 import { setHistoryFilter, setHistoryPaneState } from 'state/predictions'

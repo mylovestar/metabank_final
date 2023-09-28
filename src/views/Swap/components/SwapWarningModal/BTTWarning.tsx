@@ -1,5 +1,5 @@
 import { useTranslation } from 'contexts/Localization'
-import { Text, Link, LinkExternal } from '@metabank/uikit'
+import { Text, Link, LinkExternal } from '@metabankswap/uikit'
 
 const BTTWarning = () => {
   const { t } = useTranslation()

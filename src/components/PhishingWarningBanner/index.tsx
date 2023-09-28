@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Text, Flex, Box, CloseIcon, IconButton, useMatchBreakpoints } from '@metabank/uikit'
+import { Text, Flex, Box, CloseIcon, IconButton, useMatchBreakpoints } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { usePhishingBannerManager } from 'state/user/hooks'
 

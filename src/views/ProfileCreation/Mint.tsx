@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 import { formatUnits } from '@ethersproject/units'
-import { Card, CardBody, Heading, Text } from '@metabank/uikit'
+import { Card, CardBody, Heading, Text } from '@metabankswap/uikit'
 import { useWeb3React } from '@web3-react/core'
 import { useTranslation } from 'contexts/Localization'
 import useApproveConfirmTransaction from 'hooks/useApproveConfirmTransaction'

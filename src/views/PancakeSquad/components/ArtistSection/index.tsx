@@ -1,4 +1,4 @@
-import { Box, Button, Flex, Text } from '@metabank/uikit'
+import { Box, Button, Flex, Text } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { LandingBodyWrapper, StyledWaveContainer } from 'views/PancakeSquad/styles'
 import { useTheme } from 'styled-components'

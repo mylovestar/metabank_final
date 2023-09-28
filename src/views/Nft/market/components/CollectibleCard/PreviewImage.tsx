@@ -1,4 +1,4 @@
-import { BackgroundImage, BoxProps } from '@metabank/uikit'
+import { BackgroundImage, BoxProps } from '@metabankswap/uikit'
 import PlaceholderImage from './PlaceholderImage'
 
 interface PreviewImageProps extends BoxProps {

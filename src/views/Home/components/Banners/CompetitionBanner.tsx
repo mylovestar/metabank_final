@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Text, Flex, Button, ArrowForwardIcon, Heading, useMatchBreakpoints } from '@metabank/uikit'
+import { Text, Flex, Button, ArrowForwardIcon, Heading, useMatchBreakpoints } from '@metabankswap/uikit'
 import { NextLinkFromReactRouter } from 'components/NextLink'
 import { useTranslation } from 'contexts/Localization'
 

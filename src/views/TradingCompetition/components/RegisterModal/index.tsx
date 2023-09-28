@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Modal, Button, NoProfileAvatarIcon, Flex } from '@metabank/uikit'
+import { Modal, Button, NoProfileAvatarIcon, Flex } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import ProfileAvatarWithTeam from 'components/ProfileAvatarWithTeam'
 import { CompetitionProps } from '../../types'

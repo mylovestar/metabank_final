@@ -1,5 +1,5 @@
 import { ReactNode } from 'react'
-import { Flex, Box, FlexProps } from '@metabank/uikit'
+import { Flex, Box, FlexProps } from '@metabankswap/uikit'
 import Image from 'next/image'
 import StyledBannerImageWrapper from './BannerImage'
 

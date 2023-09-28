@@ -1,4 +1,4 @@
-import { Button, Text } from '@metabank/uikit'
+import { Button, Text } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { useAppDispatch } from 'state'
 import { setHistoryPaneState } from 'state/predictions'

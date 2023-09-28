@@ -1,4 +1,4 @@
-import { Flex, Text, Heading } from '@metabank/uikit'
+import { Flex, Text, Heading } from '@metabankswap/uikit'
 import styled from 'styled-components'
 import { useTranslation } from 'contexts/Localization'
 import Link from 'next/link'

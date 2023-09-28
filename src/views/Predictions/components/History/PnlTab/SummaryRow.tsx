@@ -1,5 +1,5 @@
-import { Price } from '@metabank/sdk'
-import { Flex, Text } from '@metabank/uikit'
+import { Price } from '@metabankswap/sdk'
+import { Flex, Text } from '@metabankswap/uikit'
 import { multiplyPriceByAmount } from 'utils/prices'
 import { useTranslation } from 'contexts/Localization'
 import { formatBnb } from '../helpers'

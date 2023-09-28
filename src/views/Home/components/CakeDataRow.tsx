@@ -1,4 +1,4 @@
-import { Flex, Heading, Skeleton, Text } from '@metabank/uikit'
+import { Flex, Heading, Skeleton, Text } from '@metabankswap/uikit'
 import Balance from 'components/Balance'
 import cakeAbi from 'config/abi/cake.json'
 import tokens from 'config/constants/tokens'

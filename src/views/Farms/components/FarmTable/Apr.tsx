@@ -3,7 +3,7 @@ import ApyButton from 'views/Farms/components/FarmCard/ApyButton'
 import BigNumber from 'bignumber.js'
 import { BASE_ADD_LIQUIDITY_URL } from 'config'
 import getLiquidityUrlPathParts from 'utils/getLiquidityUrlPathParts'
-import { Skeleton } from '@metabank/uikit'
+import { Skeleton } from '@metabankswap/uikit'
 
 export interface AprProps {
   value: string

@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Flex, useModal, CalculateIcon, Skeleton, FlexProps, Button } from '@metabank/uikit'
+import { Flex, useModal, CalculateIcon, Skeleton, FlexProps, Button } from '@metabankswap/uikit'
 import RoiCalculatorModal from 'components/RoiCalculatorModal'
 import Balance from 'components/Balance'
 import { DeserializedPool } from 'state/types'

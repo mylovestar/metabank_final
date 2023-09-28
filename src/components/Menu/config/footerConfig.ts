@@ -1,4 +1,4 @@
-import { FooterLinkType } from '@metabank/uikit'
+import { FooterLinkType } from '@metabankswap/uikit'
 import { ContextApi } from 'contexts/Localization/types'
 
 export const footerLinks: (t: ContextApi['t']) => FooterLinkType[] = (t) => [

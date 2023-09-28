@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Flex, TooltipText, Text, IconButton, useModal, CalculateIcon, Skeleton, useTooltip } from '@metabank/uikit'
+import { Flex, TooltipText, Text, IconButton, useModal, CalculateIcon, Skeleton, useTooltip } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import Balance from 'components/Balance'
 import RoiCalculatorModal from 'components/RoiCalculatorModal'

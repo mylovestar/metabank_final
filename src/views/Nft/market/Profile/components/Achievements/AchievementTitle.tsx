@@ -1,4 +1,4 @@
-import { Text, TextProps } from '@metabank/uikit'
+import { Text, TextProps } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { TranslatableText as AchievementTitleType } from 'config/constants/types'
 

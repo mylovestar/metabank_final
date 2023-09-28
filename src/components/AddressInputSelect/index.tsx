@@ -1,5 +1,5 @@
 import { ChangeEvent, useState, useEffect } from 'react'
-import { Box, BoxProps, Text, Input } from '@metabank/uikit'
+import { Box, BoxProps, Text, Input } from '@metabankswap/uikit'
 import styled from 'styled-components'
 import { isAddress } from 'utils'
 import { useTranslation } from 'contexts/Localization'

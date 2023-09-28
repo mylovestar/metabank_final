@@ -1,5 +1,5 @@
 import BigNumber from 'bignumber.js'
-import { Token } from '@metabank/sdk'
+import { Token } from '@metabankswap/sdk'
 
 export type TranslatableText =
   | string

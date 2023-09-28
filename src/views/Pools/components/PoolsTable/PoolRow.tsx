@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import styled from 'styled-components'
-import { useMatchBreakpoints } from '@metabank/uikit'
+import { useMatchBreakpoints } from '@metabankswap/uikit'
 import { DeserializedPool, VaultKey } from 'state/types'
 import useDelayedUnmount from 'hooks/useDelayedUnmount'
 import NameCell from './Cells/NameCell'

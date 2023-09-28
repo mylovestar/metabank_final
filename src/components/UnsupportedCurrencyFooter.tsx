@@ -1,5 +1,5 @@
-import { Currency, Token } from '@metabank/sdk'
-import { Button, Text, Modal, useModal, InjectedModalProps, Link } from '@metabank/uikit'
+import { Currency, Token } from '@metabankswap/sdk'
+import { Button, Text, Modal, useModal, InjectedModalProps, Link } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import styled from 'styled-components'
 import { AutoRow } from 'components/Layout/Row'

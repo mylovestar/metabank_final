@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Card, CardBody, Heading } from '@metabank/uikit'
+import { Card, CardBody, Heading } from '@metabankswap/uikit'
 
 interface NotificationProps {
   title: string

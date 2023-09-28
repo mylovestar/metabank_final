@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { Flex, Text, ChevronUpIcon, ChevronDownIcon } from '@metabank/uikit'
+import { Flex, Text, ChevronUpIcon, ChevronDownIcon } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import PreviousBetsTable from './PreviousBetsTable'
 

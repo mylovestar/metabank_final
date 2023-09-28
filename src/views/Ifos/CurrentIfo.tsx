@@ -1,6 +1,6 @@
 import { ifosConfig } from 'config/constants'
 import styled from 'styled-components'
-import { Box } from '@metabank/uikit'
+import { Box } from '@metabankswap/uikit'
 
 import useGetPublicIfoV2Data from 'views/Ifos/hooks/v2/useGetPublicIfoData'
 import useGetWalletIfoV3Data from 'views/Ifos/hooks/v3/useGetWalletIfoData'

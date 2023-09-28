@@ -1,5 +1,5 @@
 import { useTheme } from 'styled-components'
-import { Svg, SvgProps } from '@metabank/uikit'
+import { Svg, SvgProps } from '@metabankswap/uikit'
 
 interface MultiplierProps extends SvgProps {
   isActive: boolean

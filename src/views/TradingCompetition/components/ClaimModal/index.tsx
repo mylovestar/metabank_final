@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Modal, Button, Flex, AutoRenewIcon, Heading, Text } from '@metabank/uikit'
+import { Modal, Button, Flex, AutoRenewIcon, Heading, Text } from '@metabankswap/uikit'
 import Image from 'next/image'
 import { useTranslation } from 'contexts/Localization'
 import { useTradingCompetitionContractV2 } from 'hooks/useContract'

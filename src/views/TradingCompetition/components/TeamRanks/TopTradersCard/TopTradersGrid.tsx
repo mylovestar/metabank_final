@@ -1,4 +1,4 @@
-import { Box, Skeleton } from '@metabank/uikit'
+import { Box, Skeleton } from '@metabankswap/uikit'
 import styled from 'styled-components'
 import { LeaderboardDataItem } from '../../../types'
 import GridItem from './GridItem'

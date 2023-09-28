@@ -9,7 +9,7 @@ import {
   // TradingViewIcon,
   LineGraphIcon,
   useMatchBreakpoints,
-} from '@metabank/uikit'
+} from '@metabankswap/uikit'
 import { CurrencyLogo, DoubleCurrencyLogo } from 'components/Logo'
 // import { TradingViewLabel } from 'components/TradingView'
 import { useTranslation } from 'contexts/Localization'

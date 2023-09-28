@@ -1,4 +1,4 @@
-import { CheckmarkIcon, Flex, FlexProps, Text } from '@metabank/uikit'
+import { CheckmarkIcon, Flex, FlexProps, Text } from '@metabankswap/uikit'
 
 type ReadyTextProps = {
   text: string

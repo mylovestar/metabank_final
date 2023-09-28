@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Flex, Image, Text } from '@metabank/uikit'
+import { Flex, Image, Text } from '@metabankswap/uikit'
 
 export const StyledSortButton = styled.button`
   border: none;

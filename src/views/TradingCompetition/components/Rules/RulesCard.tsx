@@ -1,4 +1,4 @@
-import { Heading, Card, CardBody } from '@metabank/uikit'
+import { Heading, Card, CardBody } from '@metabankswap/uikit'
 
 const RulesCard: React.FC<{ title?: string }> = ({ title, children }) => {
   return (

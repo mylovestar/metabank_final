@@ -1,4 +1,4 @@
-import { Flex, lightColors } from '@metabank/uikit'
+import { Flex, lightColors } from '@metabankswap/uikit'
 import styled, { keyframes } from 'styled-components'
 
 const flyingAnim = () => keyframes`

@@ -1,4 +1,4 @@
-import { EventStatus, StepStatus } from '@metabank/uikit'
+import { EventStatus, StepStatus } from '@metabankswap/uikit'
 import { SaleStatusEnum } from 'views/PancakeSquad/types'
 import { getEventStepStatus, getEventStepStatusType } from 'views/PancakeSquad/utils'
 

@@ -10,7 +10,7 @@ import {
   Text,
   useModal,
   useTooltip,
-} from '@metabank/uikit'
+} from '@metabankswap/uikit'
 import BigNumber from 'bignumber.js'
 import { AnimatedBalance as Balance } from 'components/Balance'
 import { useTranslation } from 'contexts/Localization'

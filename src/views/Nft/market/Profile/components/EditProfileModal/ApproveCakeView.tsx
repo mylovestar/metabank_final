@@ -1,4 +1,4 @@
-import { AutoRenewIcon, Button, Flex, InjectedModalProps, Text } from '@metabank/uikit'
+import { AutoRenewIcon, Button, Flex, InjectedModalProps, Text } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { useCake } from 'hooks/useContract'
 import useCatchTxError from 'hooks/useCatchTxError'

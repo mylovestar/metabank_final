@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Flex } from '@metabank/uikit'
+import { Flex } from '@metabankswap/uikit'
 import { RibbonProps } from '../../types'
 import Ribbon from '../Ribbon'
 

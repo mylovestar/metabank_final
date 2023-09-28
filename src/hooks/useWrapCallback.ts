@@ -1,4 +1,4 @@
-import { Currency, currencyEquals, ETHER, WETH } from '@metabank/sdk'
+import { Currency, currencyEquals, ETHER, WETH } from '@metabankswap/sdk'
 import { useMemo } from 'react'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import { useTranslation } from 'contexts/Localization'

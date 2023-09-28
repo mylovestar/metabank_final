@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 import BigNumber from 'bignumber.js'
-import { Flex, Text } from '@metabank/uikit'
+import { Flex, Text } from '@metabankswap/uikit'
 import styled from 'styled-components'
 import { BIG_ZERO } from 'utils/bigNumber'
 import { useTranslation } from 'contexts/Localization'

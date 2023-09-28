@@ -1,5 +1,5 @@
 import { BIG_ZERO } from 'utils/bigNumber'
-import { Text, useMatchBreakpoints } from '@metabank/uikit'
+import { Text, useMatchBreakpoints } from '@metabankswap/uikit'
 import BigNumber from 'bignumber.js'
 import { DeserializedPool } from 'state/types'
 import { useTranslation } from 'contexts/Localization'

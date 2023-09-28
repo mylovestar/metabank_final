@@ -1,4 +1,4 @@
-import { Card, Table, Th } from '@metabank/uikit'
+import { Card, Table, Th } from '@metabankswap/uikit'
 import { PredictionUser } from 'state/types'
 import Container from 'components/Layout/Container'
 import { useTranslation } from 'contexts/Localization'

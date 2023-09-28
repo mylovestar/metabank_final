@@ -1,5 +1,5 @@
-import { Token } from '@metabank/sdk'
-import { Modal, InjectedModalProps } from '@metabank/uikit'
+import { Token } from '@metabankswap/sdk'
+import { Modal, InjectedModalProps } from '@metabankswap/uikit'
 import ImportToken from 'components/SearchModal/ImportToken'
 import { useTranslation } from 'contexts/Localization'
 

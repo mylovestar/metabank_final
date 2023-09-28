@@ -1,4 +1,4 @@
-import { Box, Card, Text } from '@metabank/uikit'
+import { Box, Card, Text } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import PreviousBetsTable from '../PreviousBetsTable'
 

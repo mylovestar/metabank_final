@@ -1,4 +1,4 @@
-import { Text } from '@metabank/uikit'
+import { Text } from '@metabankswap/uikit'
 import { Auction, AuctionStatus } from 'config/constants/types'
 import { useTranslation } from 'contexts/Localization'
 

@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import { Box, BoxProps, Button, Grid, InlineMenu, TextField } from '@metabank/uikit'
+import { Box, BoxProps, Button, Grid, InlineMenu, TextField } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import FilterFooter from '../FilterFooter'
 

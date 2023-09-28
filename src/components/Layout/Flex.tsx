@@ -1,4 +1,4 @@
-import { Flex, FlexProps } from '@metabank/uikit'
+import { Flex, FlexProps } from '@metabankswap/uikit'
 import styled from 'styled-components'
 
 const FlexLayout = styled.div`

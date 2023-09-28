@@ -1,4 +1,4 @@
-import { Percent } from '@metabank/sdk'
+import { Percent } from '@metabankswap/sdk'
 import { warningSeverity } from 'utils/prices'
 import { ONE_BIPS } from '../../../config/constants'
 import { ErrorText } from './styleds'

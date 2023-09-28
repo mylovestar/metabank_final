@@ -1,6 +1,6 @@
 import styled from 'styled-components'
 import { NextLinkFromReactRouter } from 'components/NextLink'
-import { Box, Flex, Grid, Image } from '@metabank/uikit'
+import { Box, Flex, Grid, Image } from '@metabankswap/uikit'
 
 export const TwoColumnsContainer = styled(Flex)`
   gap: 22px;

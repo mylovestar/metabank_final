@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { HelpIcon, Text, Skeleton, useTooltip } from '@metabank/uikit'
+import { HelpIcon, Text, Skeleton, useTooltip } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import BigNumber from 'bignumber.js'
 

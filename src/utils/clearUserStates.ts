@@ -1,6 +1,6 @@
 import * as Sentry from '@sentry/react'
 import { Dispatch } from '@reduxjs/toolkit'
-import { connectorLocalStorageKey } from '@metabank/uikit'
+import { connectorLocalStorageKey } from '@metabankswap/uikit'
 import { connectorsByName } from './web3React'
 import { clearAllTransactions } from '../state/transactions/actions'
 

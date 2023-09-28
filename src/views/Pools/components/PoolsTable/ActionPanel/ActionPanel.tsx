@@ -11,7 +11,7 @@ import {
   Text,
   TimerIcon,
   useTooltip,
-} from '@metabank/uikit'
+} from '@metabankswap/uikit'
 import { BASE_BSC_SCAN_URL } from 'config'
 import { getBscScanLink } from 'utils'
 import { useCurrentBlock } from 'state/block/hooks'

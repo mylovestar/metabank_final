@@ -1,4 +1,4 @@
-import { Button, Flex, Skeleton, useModal } from '@metabank/uikit'
+import { Button, Flex, Skeleton, useModal } from '@metabankswap/uikit'
 import BigNumber from 'bignumber.js'
 import { useTranslation } from 'contexts/Localization'
 

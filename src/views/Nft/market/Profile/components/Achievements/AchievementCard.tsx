@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Flex, PrizeIcon, Text } from '@metabank/uikit'
+import { Flex, PrizeIcon, Text } from '@metabankswap/uikit'
 import { Achievement } from 'state/types'
 import AchievementAvatar from './AchievementAvatar'
 import AchievementTitle from './AchievementTitle'

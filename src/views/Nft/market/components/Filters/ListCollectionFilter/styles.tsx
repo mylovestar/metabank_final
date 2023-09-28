@@ -1,4 +1,4 @@
-import { Checkbox, Flex, Text } from '@metabank/uikit'
+import { Checkbox, Flex, Text } from '@metabankswap/uikit'
 import { StyledItemRow } from '../ListFilter/styles'
 
 interface CollectionItemRowProps {

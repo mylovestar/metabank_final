@@ -1,4 +1,4 @@
-import { Box, Text } from '@metabank/uikit'
+import { Box, Text } from '@metabankswap/uikit'
 import styled from 'styled-components'
 
 const BaseLabel = styled.label`

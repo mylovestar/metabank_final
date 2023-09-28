@@ -1,5 +1,5 @@
 import { useTranslation } from 'contexts/Localization'
-import { Text } from '@metabank/uikit'
+import { Text } from '@metabankswap/uikit'
 import { SVG, WonSlice, LostSlice, Wrapper, Info } from './PnlChartStyles'
 
 /**

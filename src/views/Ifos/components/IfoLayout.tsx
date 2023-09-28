@@ -1,4 +1,4 @@
-import { Box } from '@metabank/uikit'
+import { Box } from '@metabankswap/uikit'
 import styled from 'styled-components'
 
 const IfoLayout = styled(Box)`

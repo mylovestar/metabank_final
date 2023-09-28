@@ -1,6 +1,6 @@
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import styled from 'styled-components'
-import { BaseLayout } from '@metabank/uikit'
+import { BaseLayout } from '@metabankswap/uikit'
 import Page from 'components/Layout/Page'
 import Hero from './components/Hero'
 import TotalReferral from './components/TotalReferral'

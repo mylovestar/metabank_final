@@ -1,4 +1,4 @@
-import { Text } from '@metabank/uikit'
+import { Text } from '@metabankswap/uikit'
 import { ContextApi } from 'contexts/Localization/types'
 import Link from 'next/link'
 

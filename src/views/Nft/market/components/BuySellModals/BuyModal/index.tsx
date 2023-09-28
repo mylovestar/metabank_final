@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import { InjectedModalProps } from '@metabank/uikit'
+import { InjectedModalProps } from '@metabankswap/uikit'
 import { MaxUint256, Zero } from '@ethersproject/constants'
 import useTheme from 'hooks/useTheme'
 import { useTranslation, TranslateFunction } from 'contexts/Localization'

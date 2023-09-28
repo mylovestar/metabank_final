@@ -1,4 +1,4 @@
-import { Flex, Box, Text, Button } from '@metabank/uikit'
+import { Flex, Box, Text, Button } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { Divider } from '../shared/styles'
 

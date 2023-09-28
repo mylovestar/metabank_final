@@ -1,4 +1,4 @@
-import { Svg, SvgProps } from '@metabank/uikit'
+import { Svg, SvgProps } from '@metabankswap/uikit'
 
 const LineChartLoaderSVG: React.FC<SvgProps> = (props) => {
   return (

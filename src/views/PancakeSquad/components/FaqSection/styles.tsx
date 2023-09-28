@@ -1,4 +1,4 @@
-import { Flex, Text } from '@metabank/uikit'
+import { Flex, Text } from '@metabankswap/uikit'
 import styled from 'styled-components'
 
 export const StyledFaqSection = styled(Flex)`

@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Button } from '@metabank/uikit'
+import { Button } from '@metabankswap/uikit'
 
 interface NumTicketsToBuyButtonProps {
   onClick: () => void

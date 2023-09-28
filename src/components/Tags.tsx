@@ -11,7 +11,7 @@ import {
   useTooltip,
   VerifiedIcon,
   VoteIcon,
-} from '@metabank/uikit'
+} from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { memo } from 'react'
 

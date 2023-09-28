@@ -1,4 +1,4 @@
-import { InjectedModalProps, Modal } from '@metabank/uikit'
+import { InjectedModalProps, Modal } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { ContextApi } from 'contexts/Localization/types'
 import useEditProfile, { Views } from './reducer'

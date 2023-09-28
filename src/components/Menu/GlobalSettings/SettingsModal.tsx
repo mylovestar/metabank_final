@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import styled from 'styled-components'
-import { Text, PancakeToggle, Toggle, Flex, Modal, InjectedModalProps } from '@metabank/uikit'
+import { Text, PancakeToggle, Toggle, Flex, Modal, InjectedModalProps } from '@metabankswap/uikit'
 import {
   useAudioModeManager,
   useExpertModeManager,

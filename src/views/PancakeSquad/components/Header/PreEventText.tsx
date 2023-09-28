@@ -1,4 +1,4 @@
-import { darkColors, Text } from '@metabank/uikit'
+import { darkColors, Text } from '@metabankswap/uikit'
 import { ContextApi } from 'contexts/Localization/types'
 import { SaleStatusEnum, UserStatusEnum } from '../../types'
 

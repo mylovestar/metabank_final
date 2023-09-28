@@ -1,4 +1,4 @@
-import { Svg, SvgProps } from '@metabank/uikit'
+import { Svg, SvgProps } from '@metabankswap/uikit'
 
 const OkNFTIcon: React.FC<SvgProps> = (props) => (
   <Svg width="36" height="31" fill="none" viewBox="0 0 36 31" {...props}>

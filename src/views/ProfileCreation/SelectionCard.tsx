@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Card, Radio } from '@metabank/uikit'
+import { Card, Radio } from '@metabankswap/uikit'
 
 interface SelectionCardProps {
   name: string

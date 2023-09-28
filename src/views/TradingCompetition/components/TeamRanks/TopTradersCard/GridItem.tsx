@@ -1,4 +1,4 @@
-import { Heading, Text, Flex } from '@metabank/uikit'
+import { Heading, Text, Flex } from '@metabankswap/uikit'
 import styled from 'styled-components'
 import truncateHash from 'utils/truncateHash'
 import { LeaderboardDataItem } from '../../../types'

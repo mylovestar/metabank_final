@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Text, Button, Input, InputProps, Flex, Link } from '@metabank/uikit'
+import { Text, Button, Input, InputProps, Flex, Link } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { parseUnits } from '@ethersproject/units'
 import { formatBigNumber } from 'utils/formatBalance'

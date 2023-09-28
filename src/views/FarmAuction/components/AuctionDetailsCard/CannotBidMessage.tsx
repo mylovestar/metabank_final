@@ -1,4 +1,4 @@
-import { Text, Flex, HelpIcon, useTooltip } from '@metabank/uikit'
+import { Text, Flex, HelpIcon, useTooltip } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 
 const CannotBidMessage: React.FC = () => {

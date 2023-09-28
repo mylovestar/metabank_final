@@ -1,6 +1,6 @@
 import { useState } from 'react'
-import { Token, Currency } from '@metabank/sdk'
-import { Button, Text, ErrorIcon, Flex, Message, Checkbox, Link, Tag, Grid } from '@metabank/uikit'
+import { Token, Currency } from '@metabankswap/sdk'
+import { Button, Text, ErrorIcon, Flex, Message, Checkbox, Link, Tag, Grid } from '@metabankswap/uikit'
 import { AutoColumn } from 'components/Layout/Column'
 import { useAddUserToken } from 'state/user/hooks'
 import { getBscScanLink } from 'utils'

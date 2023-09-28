@@ -1,4 +1,4 @@
-import { Radio, Text } from '@metabank/uikit'
+import { Radio, Text } from '@metabankswap/uikit'
 import noop from 'lodash/noop'
 import { formatNumber } from 'utils/formatBalance'
 import { ItemImage, StyledItemRow } from '../ListFilter/styles'

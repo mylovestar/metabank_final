@@ -1,4 +1,4 @@
-import { HistoryIcon, Button, useModal } from '@metabank/uikit'
+import { HistoryIcon, Button, useModal } from '@metabankswap/uikit'
 import TransactionsModal from './TransactionsModal'
 
 const Transactions = () => {

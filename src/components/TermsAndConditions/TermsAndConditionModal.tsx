@@ -1,5 +1,5 @@
 /* eslint-disable jsx-a11y/label-has-associated-control */
-import { Button, Modal, ModalBody } from '@metabank/uikit'
+import { Button, Modal, ModalBody } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import useTheme from 'hooks/useTheme'
 import { useUserAgreedTermsAndConditions } from 'state/user/hooks'

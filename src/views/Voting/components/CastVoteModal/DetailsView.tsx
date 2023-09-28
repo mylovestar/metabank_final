@@ -1,4 +1,4 @@
-import { Flex, LinkExternal, Text } from '@metabank/uikit'
+import { Flex, LinkExternal, Text } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import styled from 'styled-components'
 import { getBscScanLink } from 'utils'

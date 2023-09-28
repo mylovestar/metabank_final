@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Card } from '@metabank/uikit'
+import { Card } from '@metabankswap/uikit'
 
 export const StyledCard = styled(Card)<{ isFinished?: boolean }>`
   background: linear-gradient(rgb(83, 222, 233), rgb(122, 146, 220)) 0% 0% / 400% 400%;

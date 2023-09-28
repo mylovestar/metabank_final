@@ -1,4 +1,4 @@
-import { Card, Heading } from '@metabank/uikit'
+import { Card, Heading } from '@metabankswap/uikit'
 import Page from 'components/Layout/Page'
 import PageHeader from 'components/PageHeader'
 import { useTranslation } from 'contexts/Localization'

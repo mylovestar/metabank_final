@@ -1,5 +1,5 @@
 import React from 'react'
-import { Card, CardBody, CardFooter, Text, Heading } from '@metabank/uikit'
+import { Card, CardBody, CardFooter, Text, Heading } from '@metabankswap/uikit'
 import useTotalReferralCount from 'hooks/useTotalReferralCount'
 
 const TotalReferral = () => {

@@ -1,4 +1,4 @@
-import { SubMenuItems } from '@metabank/uikit'
+import { SubMenuItems } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { PageMeta } from 'components/Layout/Page'
 import { useRouter } from 'next/router'

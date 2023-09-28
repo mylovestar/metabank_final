@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Flex, Link, Skeleton, Text, TimerIcon } from '@metabank/uikit'
+import { Flex, Link, Skeleton, Text, TimerIcon } from '@metabankswap/uikit'
 import { getBscScanLink } from 'utils'
 import { DeserializedPool } from 'state/types'
 import { useCurrentBlock } from 'state/block/hooks'

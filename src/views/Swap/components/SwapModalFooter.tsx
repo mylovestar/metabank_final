@@ -1,7 +1,7 @@
 import { useMemo, useState } from 'react'
 import styled from 'styled-components'
-import { Trade, TradeType } from '@metabank/sdk'
-import { Button, Text, AutoRenewIcon } from '@metabank/uikit'
+import { Trade, TradeType } from '@metabankswap/sdk'
+import { Button, Text, AutoRenewIcon } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { Field } from 'state/swap/actions'
 import {

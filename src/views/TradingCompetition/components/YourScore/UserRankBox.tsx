@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Flex, Text, FlexProps } from '@metabank/uikit'
+import { Flex, Text, FlexProps } from '@metabankswap/uikit'
 
 interface UserRankProps extends FlexProps {
   title?: string

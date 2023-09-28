@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Skeleton, Text, Flex, Box, useModal, useMatchBreakpoints } from '@metabank/uikit'
+import { Skeleton, Text, Flex, Box, useModal, useMatchBreakpoints } from '@metabankswap/uikit'
 import { DeserializedPool } from 'state/types'
 import BigNumber from 'bignumber.js'
 import { PoolCategory } from 'config/constants/types'

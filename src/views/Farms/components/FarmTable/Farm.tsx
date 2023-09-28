@@ -1,8 +1,8 @@
 import styled from 'styled-components'
 import { useFarmUser } from 'state/farms/hooks'
 import { useTranslation } from 'contexts/Localization'
-import { Text } from '@metabank/uikit'
-import { Token } from '@metabank/sdk'
+import { Text } from '@metabankswap/uikit'
+import { Token } from '@metabankswap/sdk'
 import { getBalanceNumber } from 'utils/formatBalance'
 import { TokenPairImage } from 'components/TokenImage'
 

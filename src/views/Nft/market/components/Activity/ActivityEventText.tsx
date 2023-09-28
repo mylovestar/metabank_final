@@ -1,4 +1,4 @@
-import { Text, TextProps } from '@metabank/uikit'
+import { Text, TextProps } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { MarketEvent } from '../../../../../state/nftMarket/types'
 

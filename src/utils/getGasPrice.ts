@@ -1,4 +1,4 @@
-import { ChainId } from '@metabank/sdk'
+import { ChainId } from '@metabankswap/sdk'
 import { CHAIN_ID } from 'config/constants/networks'
 import store from 'state'
 import { GAS_PRICE_GWEI } from 'state/user/hooks/helpers'

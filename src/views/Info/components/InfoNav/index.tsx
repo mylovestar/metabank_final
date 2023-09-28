@@ -1,4 +1,4 @@
-import { Box, ButtonMenu, ButtonMenuItem, Flex } from '@metabank/uikit'
+import { Box, ButtonMenu, ButtonMenuItem, Flex } from '@metabankswap/uikit'
 import { NextLinkFromReactRouter } from 'components/NextLink'
 import { useTranslation } from 'contexts/Localization'
 import { useRouter } from 'next/router'

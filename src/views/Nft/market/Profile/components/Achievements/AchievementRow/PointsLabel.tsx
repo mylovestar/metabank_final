@@ -1,4 +1,4 @@
-import { Flex, FlexProps, PrizeIcon, Text } from '@metabank/uikit'
+import { Flex, FlexProps, PrizeIcon, Text } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 
 interface PointsLabelProps extends FlexProps {

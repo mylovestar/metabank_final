@@ -1,4 +1,4 @@
-import { BoxProps, Flex, Text } from '@metabank/uikit'
+import { BoxProps, Flex, Text } from '@metabankswap/uikit'
 import { BetPosition, Round } from 'state/types'
 import { useTranslation } from 'contexts/Localization'
 import { formatUsd } from '../History/helpers'

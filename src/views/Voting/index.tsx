@@ -1,4 +1,4 @@
-import { Flex } from '@metabank/uikit'
+import { Flex } from '@metabankswap/uikit'
 import { PageMeta } from 'components/Layout/Page'
 import styled from 'styled-components'
 import Footer from './components/Footer'

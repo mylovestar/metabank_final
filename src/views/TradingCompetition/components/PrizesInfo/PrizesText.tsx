@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Flex, Text, Heading } from '@metabank/uikit'
+import { Flex, Text, Heading } from '@metabankswap/uikit'
 import Image from 'next/image'
 import { useTranslation } from 'contexts/Localization'
 import FlipperBunny from '../../pngs/flippers.png'

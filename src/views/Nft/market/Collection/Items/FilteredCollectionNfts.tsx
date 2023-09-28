@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import orderBy from 'lodash/orderBy'
-import { BunnyPlaceholderIcon, Button, Flex, Grid, Text } from '@metabank/uikit'
+import { BunnyPlaceholderIcon, Button, Flex, Grid, Text } from '@metabankswap/uikit'
 import {
   useGetNftFilterLoadingState,
   useGetNftOrdering,

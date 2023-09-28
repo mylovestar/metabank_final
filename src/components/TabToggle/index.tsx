@@ -1,4 +1,4 @@
-import { Box, BoxProps, Flex } from '@metabank/uikit'
+import { Box, BoxProps, Flex } from '@metabankswap/uikit'
 import styled from 'styled-components'
 
 const Wrapper = styled(Flex)`

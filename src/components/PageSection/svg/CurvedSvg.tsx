@@ -1,5 +1,5 @@
 import styled, { css, DefaultTheme } from 'styled-components'
-import { Box } from '@metabank/uikit'
+import { Box } from '@metabankswap/uikit'
 import { ClipFill } from '../types'
 
 interface CurveProps {

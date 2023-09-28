@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Flex, LaurelLeftIcon, LaurelRightIcon } from '@metabank/uikit'
+import { Flex, LaurelLeftIcon, LaurelRightIcon } from '@metabankswap/uikit'
 import { RibbonProps } from '../../types'
 import {
   RibbonDownMidExpanding,

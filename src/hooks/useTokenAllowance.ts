@@ -1,4 +1,4 @@
-import { Token, TokenAmount } from '@metabank/sdk'
+import { Token, TokenAmount } from '@metabankswap/sdk'
 import { useMemo } from 'react'
 
 import { useTokenContract } from './useContract'

@@ -1,4 +1,4 @@
-import { Flex, lightColors, Text } from '@metabank/uikit'
+import { Flex, lightColors, Text } from '@metabankswap/uikit'
 import { ContextApi } from 'contexts/Localization/types'
 
 import { SaleStatusEnum, UserStatusEnum } from '../../types'

@@ -1,4 +1,4 @@
-import { Button, Text, useModal, Flex, Skeleton, Heading } from '@metabank/uikit'
+import { Button, Text, useModal, Flex, Skeleton, Heading } from '@metabankswap/uikit'
 import BigNumber from 'bignumber.js'
 import { useWeb3React } from '@web3-react/core'
 import { PoolCategory } from 'config/constants/types'

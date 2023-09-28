@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { CheckmarkIcon, CloseIcon, LinkExternal } from '@metabank/uikit'
+import { CheckmarkIcon, CloseIcon, LinkExternal } from '@metabankswap/uikit'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import { getBscScanLink } from 'utils'
 import { TransactionDetails } from 'state/transactions/reducer'

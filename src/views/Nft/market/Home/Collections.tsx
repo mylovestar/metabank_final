@@ -1,4 +1,4 @@
-import { Button, ChevronRightIcon, Flex, Grid, Heading, Text } from '@metabank/uikit'
+import { Button, ChevronRightIcon, Flex, Grid, Heading, Text } from '@metabankswap/uikit'
 import { NextLinkFromReactRouter } from 'components/NextLink'
 import { nftsBaseUrl } from 'views/Nft/market/constants'
 import { Collection } from 'state/nftMarket/types'

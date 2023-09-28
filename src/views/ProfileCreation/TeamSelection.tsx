@@ -1,5 +1,5 @@
 import { useMemo } from 'react'
-import { Card, CardBody, CommunityIcon, Flex, Heading, Text } from '@metabank/uikit'
+import { Card, CardBody, CommunityIcon, Flex, Heading, Text } from '@metabankswap/uikit'
 import useSWR from 'swr'
 import shuffle from 'lodash/shuffle'
 import { getTeams } from 'state/teams/helpers'

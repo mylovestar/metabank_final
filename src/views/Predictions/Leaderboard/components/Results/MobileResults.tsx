@@ -1,4 +1,4 @@
-import { Box } from '@metabank/uikit'
+import { Box } from '@metabankswap/uikit'
 import { PredictionUser } from 'state/types'
 import MobileRow from './MobileRow'
 

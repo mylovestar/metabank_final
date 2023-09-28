@@ -11,8 +11,8 @@ import {
   Text,
   WalletFilledIcon,
   Skeleton,
-} from '@metabank/uikit'
-import { Price } from '@metabank/sdk'
+} from '@metabankswap/uikit'
+import { Price } from '@metabankswap/sdk'
 import { useTranslation } from 'contexts/Localization'
 import { multiplyPriceByAmount } from 'utils/prices'
 import styled from 'styled-components'

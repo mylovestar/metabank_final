@@ -1,4 +1,4 @@
-import { ArrowBackIcon, Box, Button, Flex, Heading } from '@metabank/uikit'
+import { ArrowBackIcon, Box, Button, Flex, Heading } from '@metabankswap/uikit'
 import { PageMeta } from 'components/Layout/Page'
 import useSWR from 'swr'
 import { getAllVotes, getProposal } from 'state/voting/helpers'

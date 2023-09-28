@@ -1,4 +1,4 @@
-import { Flex, FlexProps, Link, Text, LinkProps } from '@metabank/uikit'
+import { Flex, FlexProps, Link, Text, LinkProps } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 
 export const ChartByLabel = ({

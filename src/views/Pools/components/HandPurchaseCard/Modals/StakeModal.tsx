@@ -14,7 +14,7 @@ import {
   CalculateIcon,
   IconButton,
   Skeleton,
-} from '@metabank/uikit'
+} from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import useTheme from 'hooks/useTheme'
 import useToast from 'hooks/useToast'

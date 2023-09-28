@@ -1,4 +1,4 @@
-import { Flex, Text } from '@metabank/uikit'
+import { Flex, Text } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 
 import { StyledPriceChart } from './styles'

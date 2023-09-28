@@ -1,6 +1,6 @@
 import { useState, useEffect, useMemo } from 'react'
 import { useWeb3React } from '@web3-react/core'
-import { Flex } from '@metabank/uikit'
+import { Flex } from '@metabankswap/uikit'
 import orderBy from 'lodash/orderBy'
 import Page from 'components/Layout/Page'
 import { useFetchByBunnyIdAndUpdate, useGetAllBunniesByBunnyId, useGetCollection } from 'state/nftMarket/hooks'

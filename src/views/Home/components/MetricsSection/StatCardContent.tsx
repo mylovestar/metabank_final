@@ -1,4 +1,4 @@
-import { Heading, Flex, Text, useMatchBreakpoints } from '@metabank/uikit'
+import { Heading, Flex, Text, useMatchBreakpoints } from '@metabankswap/uikit'
 
 const StatCardContent: React.FC<{ headingText: string; bodyText: string; highlightColor: string }> = ({
   headingText,

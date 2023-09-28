@@ -1,4 +1,4 @@
-import { Token } from '@metabank/sdk'
+import { Token } from '@metabankswap/sdk'
 import tokens from 'config/constants/tokens'
 
 const { bondly, safemoon, itam, ccar, bttold } = tokens

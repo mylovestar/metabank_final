@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Text, Button, HelpIcon, Link } from '@metabank/uikit'
+import { Text, Button, HelpIcon, Link } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 
 const ButtonText = styled(Text)`

@@ -1,4 +1,4 @@
-import { Grid } from '@metabank/uikit'
+import { Grid } from '@metabankswap/uikit'
 import orderBy from 'lodash/orderBy'
 import { Collection } from 'state/nftMarket/types'
 import { CollectibleLinkCard } from '../../components/CollectibleCard'

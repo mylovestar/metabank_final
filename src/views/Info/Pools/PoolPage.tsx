@@ -14,7 +14,7 @@ import {
   Text,
   useMatchBreakpoints,
   useTooltip,
-} from '@metabank/uikit'
+} from '@metabankswap/uikit'
 import Page from 'components/Layout/Page'
 import { NextLinkFromReactRouter } from 'components/NextLink'
 import { useTranslation } from 'contexts/Localization'

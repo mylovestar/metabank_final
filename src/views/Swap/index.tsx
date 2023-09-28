@@ -2,7 +2,7 @@ import { useCallback, useEffect, useMemo, useState } from 'react'
 import styled from 'styled-components'
 import Cookies from 'universal-cookie'
 import { useQueryParam, StringParam, withDefault } from 'next-query-params'
-import { Currency, CurrencyAmount, JSBI, Token, Trade } from '@metabank/sdk'
+import { Currency, CurrencyAmount, JSBI, Token, Trade } from '@metabankswap/sdk'
 import {
   Button,
   Text,
@@ -15,7 +15,7 @@ import {
   useMatchBreakpoints,
   ArrowUpDownIcon,
   Skeleton,
-} from '@metabank/uikit'
+} from '@metabankswap/uikit'
 import { useIsTransactionUnsupported } from 'hooks/Trades'
 import UnsupportedCurrencyFooter from 'components/UnsupportedCurrencyFooter'
 import Footer from 'components/Menu/Footer'

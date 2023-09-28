@@ -1,5 +1,5 @@
 import { useTranslation } from 'contexts/Localization'
-import { Text, Link } from '@metabank/uikit'
+import { Text, Link } from '@metabankswap/uikit'
 
 const SafemoonWarning = () => {
   const { t } = useTranslation()

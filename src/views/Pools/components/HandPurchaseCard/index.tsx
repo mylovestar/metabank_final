@@ -1,6 +1,6 @@
 import BigNumber from 'bignumber.js'
 
-import { CardBody, Flex, Text, CardRibbon } from '@metabank/uikit'
+import { CardBody, Flex, Text, CardRibbon } from '@metabankswap/uikit'
 import ConnectWalletButton from 'components/ConnectWalletButton'
 import { useTranslation } from 'contexts/Localization'
 import { BIG_ZERO } from 'utils/bigNumber'

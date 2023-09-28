@@ -1,4 +1,4 @@
-import { Spinner, Text } from '@metabank/uikit'
+import { Spinner, Text } from '@metabankswap/uikit'
 
 import styled, { keyframes } from 'styled-components'
 

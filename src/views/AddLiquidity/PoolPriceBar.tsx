@@ -1,5 +1,5 @@
-import { Currency, Percent, Price } from '@metabank/sdk'
-import { Text } from '@metabank/uikit'
+import { Currency, Percent, Price } from '@metabankswap/sdk'
+import { Text } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { AutoColumn } from '../../components/Layout/Column'
 import { AutoRow } from '../../components/Layout/Row'

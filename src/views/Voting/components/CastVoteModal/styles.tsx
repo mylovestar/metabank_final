@@ -1,4 +1,4 @@
-import { Box, BoxProps } from '@metabank/uikit'
+import { Box, BoxProps } from '@metabankswap/uikit'
 import styled from 'styled-components'
 
 export const VotingBox = styled.div`

@@ -1,4 +1,4 @@
-import { Text, Flex, Message, Box, HelpIcon } from '@metabank/uikit'
+import { Text, Flex, Message, Box, HelpIcon } from '@metabankswap/uikit'
 import { Auction, ConnectedBidder } from 'config/constants/types'
 import { useTranslation } from 'contexts/Localization'
 

@@ -1,4 +1,4 @@
-import { Flex, BinanceIcon, Text, Skeleton } from '@metabank/uikit'
+import { Flex, BinanceIcon, Text, Skeleton } from '@metabankswap/uikit'
 import { multiplyPriceByAmount } from 'utils/prices'
 
 const ActivityPrice = ({ bnbBusdPrice, price }) => {

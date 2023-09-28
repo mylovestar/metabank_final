@@ -1,5 +1,5 @@
 import { createContext, useCallback, useEffect, useState } from 'react'
-import { Language } from '@metabank/uikit'
+import { Language } from '@metabankswap/uikit'
 import { EN, languages } from 'config/localization/languages'
 import translations from 'config/localization/translations.json'
 import { ContextApi, ProviderState, TranslateFunction } from './types'

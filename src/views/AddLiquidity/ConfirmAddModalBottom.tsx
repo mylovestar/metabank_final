@@ -1,5 +1,5 @@
-import { Currency, CurrencyAmount, Fraction, Percent } from '@metabank/sdk'
-import { Button, Text } from '@metabank/uikit'
+import { Currency, CurrencyAmount, Fraction, Percent } from '@metabankswap/sdk'
+import { Button, Text } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { RowBetween, RowFixed } from '../../components/Layout/Row'
 import { CurrencyLogo } from '../../components/Logo'

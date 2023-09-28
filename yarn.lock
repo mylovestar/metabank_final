@@ -1551,7 +1551,7 @@
     eslint-plugin-react "^7.21.5"
     eslint-plugin-react-hooks "^4.0.0"
 
-"@metabank/sdk@mylovestar/metabank_sdk":
+"@metabankswap/sdk@mylovestar/metabank_sdk":
   version "2.4.0"
   resolved "https://codeload.github.com/mylovestar/metabank_sdk/tar.gz/944863d4210d98a44dc6915f474a7cced2951520"
   dependencies:
@@ -1563,7 +1563,7 @@
     tiny-warning "^1.0.3"
     toformat "^2.0.0"
 
-"@metabank/uikit@mylovestar/metabank_uikit":
+"@metabankswap/uikit@mylovestar/metabank_uikit":
   version "0.63.1"
   resolved "https://codeload.github.com/mylovestar/metabank_uikit/tar.gz/815690c54f632c7cd54d04893bf66836d9a77d08"
   dependencies:

@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Box, Heading, Text, Button, Flex, useMatchBreakpoints } from '@metabank/uikit'
+import { Box, Heading, Text, Button, Flex, useMatchBreakpoints } from '@metabankswap/uikit'
 import Container from 'components/Layout/Container'
 import { useTranslation } from 'contexts/Localization'
 import { useRouter } from 'next/router'

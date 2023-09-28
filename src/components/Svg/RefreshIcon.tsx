@@ -1,4 +1,4 @@
-import { Svg } from '@metabank/uikit'
+import { Svg } from '@metabankswap/uikit'
 
 // NOTE: Temporary save icon here. Will move to uikit when the feature is done
 

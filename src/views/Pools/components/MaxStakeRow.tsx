@@ -1,11 +1,11 @@
 import React from 'react'
-import { Flex, Link, Text, TimerIcon } from '@metabank/uikit'
+import { Flex, Link, Text, TimerIcon } from '@metabankswap/uikit'
 import { getBscScanLink } from 'utils'
 import BigNumber from 'bignumber.js'
 import { useTranslation } from 'contexts/Localization'
 import Balance from 'components/Balance'
 import { getFullDisplayBalance } from 'utils/formatBalance'
-import { Token } from '@metabank/sdk'
+import { Token } from '@metabankswap/sdk'
 
 interface MaxStakeRowProps {
   small?: boolean

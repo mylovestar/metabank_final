@@ -1,4 +1,4 @@
-import { Flex, IconButton, CogIcon, useModal } from '@metabank/uikit'
+import { Flex, IconButton, CogIcon, useModal } from '@metabankswap/uikit'
 import SettingsModal from './SettingsModal'
 
 type Props = {

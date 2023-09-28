@@ -1,5 +1,5 @@
 import { useRouter } from 'next/router'
-import { Text } from '@metabank/uikit'
+import { Text } from '@metabankswap/uikit'
 import { Collection } from 'state/nftMarket/types'
 import { formatNumber } from 'utils/formatBalance'
 import { useTranslation } from 'contexts/Localization'

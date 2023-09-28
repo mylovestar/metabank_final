@@ -1,4 +1,4 @@
-import { Currency, ETHER, Token } from '@metabank/sdk'
+import { Currency, ETHER, Token } from '@metabankswap/sdk'
 
 export function currencyId(currency: Currency): string {
   if (currency === ETHER) return 'BNB'

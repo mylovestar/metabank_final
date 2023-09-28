@@ -1,6 +1,6 @@
 import styled, { keyframes } from 'styled-components'
 import { NextLinkFromReactRouter } from 'components/NextLink'
-import { Flex, Heading, Button } from '@metabank/uikit'
+import { Flex, Heading, Button } from '@metabankswap/uikit'
 import { useWeb3React } from '@web3-react/core'
 import { useTranslation } from 'contexts/Localization'
 import ConnectWalletButton from 'components/ConnectWalletButton'

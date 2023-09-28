@@ -1,4 +1,4 @@
-import { ChainId, JSBI, Percent, Token } from '@metabank/sdk'
+import { ChainId, JSBI, Percent, Token } from '@metabankswap/sdk'
 import { mainnetTokens, testnetTokens } from './tokens'
 
 export const ROUTER_ADDRESS = '0xd4dd4bf4abe7454a1C04199321AAeFD85A7beAE1'

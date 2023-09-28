@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { ButtonMenu, ButtonMenuItem } from '@metabank/uikit'
+import { ButtonMenu, ButtonMenuItem } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { useRouter } from 'next/router'
 import Link from 'next/link'

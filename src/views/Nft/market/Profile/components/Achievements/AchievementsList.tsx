@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Flex, Heading, Skeleton, useMatchBreakpoints } from '@metabank/uikit'
+import { Flex, Heading, Skeleton, useMatchBreakpoints } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { Achievement } from 'state/types'
 import AchievementCard from './AchievementCard'

@@ -1,4 +1,4 @@
-import { Text } from '@metabank/uikit'
+import { Text } from '@metabankswap/uikit'
 import { toDate, format } from 'date-fns'
 import { useTranslation } from 'contexts/Localization'
 import { ProposalState } from 'state/types'

@@ -1,4 +1,4 @@
-import { Text } from '@metabank/uikit'
+import { Text } from '@metabankswap/uikit'
 import getTimePeriods from 'utils/getTimePeriods'
 import { useTranslation } from 'contexts/Localization'
 

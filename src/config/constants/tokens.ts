@@ -1,4 +1,4 @@
-import { ChainId, Token } from '@metabank/sdk'
+import { ChainId, Token } from '@metabankswap/sdk'
 import { serializeToken } from 'state/user/hooks/helpers'
 import { CHAIN_ID } from './networks'
 import { SerializedToken } from './types'

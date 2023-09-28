@@ -1,6 +1,6 @@
 import { useMemo } from 'react'
-import { Trade, TradeType } from '@metabank/sdk'
-import { Button, Text, ErrorIcon, ArrowDownIcon } from '@metabank/uikit'
+import { Trade, TradeType } from '@metabankswap/sdk'
+import { Button, Text, ErrorIcon, ArrowDownIcon } from '@metabankswap/uikit'
 import { Field } from 'state/swap/actions'
 import { useTranslation } from 'contexts/Localization'
 import { computeSlippageAdjustedAmounts, computeTradePriceBreakdown, warningSeverity } from 'utils/prices'

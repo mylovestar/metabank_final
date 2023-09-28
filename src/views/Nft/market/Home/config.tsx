@@ -1,4 +1,4 @@
-import { LinkExternal } from '@metabank/uikit'
+import { LinkExternal } from '@metabankswap/uikit'
 import { ContextApi } from 'contexts/Localization/types'
 
 const config = (t: ContextApi['t']) => {

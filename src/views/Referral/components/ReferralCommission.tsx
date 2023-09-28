@@ -1,6 +1,6 @@
 import React from 'react'
 import useTotalRefCommission from 'hooks/useTotalRefCommission'
-import { Card, CardBody, CardFooter, Text, Heading } from '@metabank/uikit'
+import { Card, CardBody, CardFooter, Text, Heading } from '@metabankswap/uikit'
 import { getBalanceNumber } from '../../../utils/formatBalance'
 
 const ReferralCommission = () => {

@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Modal, Text, Flex, Button, ArrowBackIcon, AutoRenewIcon } from '@metabank/uikit'
+import { Modal, Text, Flex, Button, ArrowBackIcon, AutoRenewIcon } from '@metabankswap/uikit'
 import useTheme from 'hooks/useTheme'
 import { useTranslation } from 'contexts/Localization'
 import TicketInput from './TicketInput'

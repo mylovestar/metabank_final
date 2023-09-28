@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { useTranslation } from 'contexts/Localization'
-import { Text, Flex, Checkbox, Button } from '@metabank/uikit'
+import { Text, Flex, Checkbox, Button } from '@metabankswap/uikit'
 
 interface AcknowledgementProps {
   handleContinueClick: () => void

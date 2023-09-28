@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Skeleton } from '@metabank/uikit'
+import { Skeleton } from '@metabankswap/uikit'
 
 export interface EarnedProps {
   earnings: number

@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { useModal } from '@metabank/uikit'
+import { useModal } from '@metabankswap/uikit'
 import Cookies from 'js-cookie'
 import { BLOCK_COUNTRIES_COOKIE_NAME } from 'config/constants/cookie-names'
 import BlockCountryModal from './BlockCountryModal'

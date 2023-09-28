@@ -1,4 +1,4 @@
-import { Percent } from '@metabank/sdk'
+import { Percent } from '@metabankswap/sdk'
 import { ContextApi } from 'contexts/Localization/types'
 import { ALLOWED_PRICE_IMPACT_HIGH, PRICE_IMPACT_WITHOUT_FEE_CONFIRM_MIN } from '../../../config/constants'
 

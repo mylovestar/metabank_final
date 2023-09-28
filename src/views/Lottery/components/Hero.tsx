@@ -1,5 +1,5 @@
 import styled, { keyframes } from 'styled-components'
-import { Box, Flex, Heading, Skeleton } from '@metabank/uikit'
+import { Box, Flex, Heading, Skeleton } from '@metabankswap/uikit'
 import { LotteryStatus } from 'config/constants/types'
 import { useTranslation } from 'contexts/Localization'
 import { usePriceCakeBusd } from 'state/farms/hooks'

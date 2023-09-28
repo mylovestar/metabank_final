@@ -1,4 +1,4 @@
-import { Flex, Link } from '@metabank/uikit'
+import { Flex, Link } from '@metabankswap/uikit'
 import styled from 'styled-components'
 
 export const StyledArtistSectionContainer = styled(Flex)<{ $isDark: boolean }>`

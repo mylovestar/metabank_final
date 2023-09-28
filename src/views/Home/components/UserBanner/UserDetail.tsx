@@ -1,4 +1,4 @@
-import { NoProfileAvatarIcon, Flex, Heading, Skeleton, Text, Box } from '@metabank/uikit'
+import { NoProfileAvatarIcon, Flex, Heading, Skeleton, Text, Box } from '@metabankswap/uikit'
 import { useWeb3React } from '@web3-react/core'
 import styled from 'styled-components'
 import { useProfile } from 'state/profile/hooks'

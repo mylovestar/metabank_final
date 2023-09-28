@@ -1,4 +1,4 @@
-import { useModal, Button, Skeleton } from '@metabank/uikit'
+import { useModal, Button, Skeleton } from '@metabankswap/uikit'
 import WhitelistedBiddersModal from './WhitelistedBiddersModal'
 import useWhitelistedAddresses from '../hooks/useWhitelistedAddresses'
 

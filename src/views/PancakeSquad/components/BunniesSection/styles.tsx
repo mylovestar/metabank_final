@@ -1,4 +1,4 @@
-import { Flex } from '@metabank/uikit'
+import { Flex } from '@metabankswap/uikit'
 import styled from 'styled-components'
 
 export const StyledBunnySectionContainer = styled(Flex)`

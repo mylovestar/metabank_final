@@ -1,4 +1,4 @@
-import { Heading } from '@metabank/uikit'
+import { Heading } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import PageHeader from 'components/PageHeader'
 import Crumbs from './Crumbs'

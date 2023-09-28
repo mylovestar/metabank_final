@@ -1,4 +1,4 @@
-import { Text, TextProps } from '@metabank/uikit'
+import { Text, TextProps } from '@metabankswap/uikit'
 
 export interface PercentProps extends TextProps {
   value: number | undefined

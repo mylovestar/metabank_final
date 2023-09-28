@@ -1,6 +1,6 @@
 import { KeyboardEvent, RefObject, useCallback, useMemo, useRef, useState, useEffect } from 'react'
-import { Currency, ETHER, Token } from '@metabank/sdk'
-import { Text, Input, Box } from '@metabank/uikit'
+import { Currency, ETHER, Token } from '@metabankswap/sdk'
+import { Text, Input, Box } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { FixedSizeList } from 'react-window'
 import { useAudioModeManager } from 'state/user/hooks'

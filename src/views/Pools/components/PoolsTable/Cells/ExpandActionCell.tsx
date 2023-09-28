@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Text, ChevronDownIcon } from '@metabank/uikit'
+import { Text, ChevronDownIcon } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import BaseCell from './BaseCell'
 

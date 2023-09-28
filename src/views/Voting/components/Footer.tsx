@@ -1,4 +1,4 @@
-import { Box, Button, Text, Heading, ProposalIcon, Flex } from '@metabank/uikit'
+import { Box, Button, Text, Heading, ProposalIcon, Flex } from '@metabankswap/uikit'
 import styled from 'styled-components'
 import { useTranslation } from 'contexts/Localization'
 import Link from 'next/link'

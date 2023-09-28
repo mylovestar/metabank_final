@@ -1,6 +1,6 @@
 // import Cookies from 'universal-cookie';
 // import { useQueryParam, StringParam } from 'use-query-params';
-import { FACTORY_ADDRESS } from '@metabank/sdk'
+import { FACTORY_ADDRESS } from '@metabankswap/sdk'
 import { getUnixTime, sub } from 'date-fns'
 import { gql } from 'graphql-request'
 import { GetStaticProps } from 'next'

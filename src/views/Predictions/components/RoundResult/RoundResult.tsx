@@ -1,4 +1,4 @@
-import { BoxProps, Text } from '@metabank/uikit'
+import { BoxProps, Text } from '@metabankswap/uikit'
 import { NodeRound } from 'state/types'
 import { useTranslation } from 'contexts/Localization'
 import { getRoundPosition } from '../../helpers'

@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Card } from '@metabank/uikit'
+import { Card } from '@metabankswap/uikit'
 
 export const BodyWrapper = styled(Card)`
   border-radius: 24px;

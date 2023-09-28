@@ -12,7 +12,7 @@ import {
   useTooltip,
   Message,
   MessageText,
-} from '@metabank/uikit'
+} from '@metabankswap/uikit'
 import { getBalanceNumber } from 'utils/formatBalance'
 import { useCakeVaultContract } from 'hooks/useContract'
 import useTheme from 'hooks/useTheme'

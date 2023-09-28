@@ -1,5 +1,5 @@
 import { createPortal } from 'react-dom'
-import { Box } from '@metabank/uikit'
+import { Box } from '@metabankswap/uikit'
 import isEmpty from 'lodash/isEmpty'
 import { Collection } from 'state/nftMarket/types'
 import { useGetNftFilters } from 'state/nftMarket/hooks'

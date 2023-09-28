@@ -1,4 +1,4 @@
-import { Box, Button, Flex, InjectedModalProps, LinkExternal, Message, Skeleton, Text } from '@metabank/uikit'
+import { Box, Button, Flex, InjectedModalProps, LinkExternal, Message, Skeleton, Text } from '@metabankswap/uikit'
 import { useWeb3React } from '@web3-react/core'
 import tokens from 'config/constants/tokens'
 import { FetchStatus } from 'config/constants/types'

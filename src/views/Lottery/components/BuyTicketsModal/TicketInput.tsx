@@ -1,6 +1,6 @@
 import { useState, useRef } from 'react'
 import styled from 'styled-components'
-import { Flex, Text } from '@metabank/uikit'
+import { Flex, Text } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { Ticket, UpdateTicketAction } from './useTicketsReducer'
 

@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Flex, Text, TicketFillIcon, PredictionsIcon } from '@metabank/uikit'
+import { Flex, Text, TicketFillIcon, PredictionsIcon } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import useTheme from 'hooks/useTheme'
 import ColoredWordHeading from '../ColoredWordHeading'

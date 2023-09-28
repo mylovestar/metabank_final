@@ -1,7 +1,7 @@
 import { useCallback } from 'react'
 import useActiveWeb3React from 'hooks/useActiveWeb3React'
 import { useDispatch } from 'react-redux'
-import { Modal, ModalBody, Text, Button, Flex, InjectedModalProps } from '@metabank/uikit'
+import { Modal, ModalBody, Text, Button, Flex, InjectedModalProps } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import orderBy from 'lodash/orderBy'
 import { isTransactionRecent, useAllTransactions } from 'state/transactions/hooks'

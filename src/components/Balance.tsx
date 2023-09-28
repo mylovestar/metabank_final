@@ -1,4 +1,4 @@
-import { Text, TextProps } from '@metabank/uikit'
+import { Text, TextProps } from '@metabankswap/uikit'
 import { useEffect, useRef } from 'react'
 import CountUp from 'react-countup'
 import styled, { keyframes } from 'styled-components'

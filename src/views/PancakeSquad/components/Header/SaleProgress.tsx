@@ -1,4 +1,4 @@
-import { Box, lightColors, Progress, Text } from '@metabank/uikit'
+import { Box, lightColors, Progress, Text } from '@metabankswap/uikit'
 import { ContextApi } from 'contexts/Localization/types'
 import { SaleStatusEnum, UserStatusEnum } from '../../types'
 

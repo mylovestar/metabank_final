@@ -1,4 +1,4 @@
-import { Token, ChainId } from '@metabank/sdk'
+import { Token, ChainId } from '@metabankswap/sdk'
 import tokens from './tokens'
 import farms from './farms'
 import { Ifo } from './types'

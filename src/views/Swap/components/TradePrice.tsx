@@ -1,5 +1,5 @@
-import { Price } from '@metabank/sdk'
-import { Text, AutoRenewIcon } from '@metabank/uikit'
+import { Price } from '@metabankswap/sdk'
+import { Text, AutoRenewIcon } from '@metabankswap/uikit'
 import { StyledBalanceMaxMini } from './styleds'
 
 interface TradePriceProps {

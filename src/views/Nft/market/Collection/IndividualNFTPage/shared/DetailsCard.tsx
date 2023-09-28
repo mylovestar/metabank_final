@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Box, Flex, Text, SearchIcon, Link } from '@metabank/uikit'
+import { Box, Flex, Text, SearchIcon, Link } from '@metabankswap/uikit'
 import { getBscScanLink } from 'utils'
 import { formatNumber } from 'utils/formatBalance'
 import uriToHttp from 'utils/uriToHttp'

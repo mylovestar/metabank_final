@@ -1,4 +1,4 @@
-import { Box, Flex, Skeleton } from '@metabank/uikit'
+import { Box, Flex, Skeleton } from '@metabankswap/uikit'
 import times from 'lodash/times'
 import styled from 'styled-components'
 

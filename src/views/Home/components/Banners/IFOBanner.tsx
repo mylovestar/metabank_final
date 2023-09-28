@@ -1,6 +1,6 @@
 import { memo } from 'react'
 import styled from 'styled-components'
-import { Text, Flex, Button, ArrowForwardIcon, Heading } from '@metabank/uikit'
+import { Text, Flex, Button, ArrowForwardIcon, Heading } from '@metabankswap/uikit'
 import { useActiveIfoWithBlocks } from 'hooks/useActiveIfoWithBlocks'
 import { NextLinkFromReactRouter } from 'components/NextLink'
 import { useTranslation } from 'contexts/Localization'

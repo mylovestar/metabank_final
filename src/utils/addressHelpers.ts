@@ -1,4 +1,4 @@
-import { ChainId } from '@metabank/sdk'
+import { ChainId } from '@metabankswap/sdk'
 import addresses from 'config/constants/contracts'
 import { Address } from 'config/constants/types'
 import { VaultKey } from 'state/types'

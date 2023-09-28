@@ -1,5 +1,5 @@
-import { Modal, ModalBody, Text, Image, Button, Link, OpenNewIcon } from '@metabank/uikit'
-import { Token } from '@metabank/sdk'
+import { Modal, ModalBody, Text, Image, Button, Link, OpenNewIcon } from '@metabankswap/uikit'
+import { Token } from '@metabankswap/sdk'
 import { useTranslation } from 'contexts/Localization'
 
 interface Props {

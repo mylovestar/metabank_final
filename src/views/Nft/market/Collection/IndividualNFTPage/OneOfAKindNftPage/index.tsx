@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Flex } from '@metabank/uikit'
+import { Flex } from '@metabankswap/uikit'
 import sum from 'lodash/sum'
 import Page from 'components/Layout/Page'
 import { useGetCollection } from 'state/nftMarket/hooks'

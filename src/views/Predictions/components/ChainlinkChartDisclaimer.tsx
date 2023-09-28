@@ -10,7 +10,7 @@ import {
   Heading,
   Checkbox,
   Box,
-} from '@metabank/uikit'
+} from '@metabankswap/uikit'
 import styled from 'styled-components'
 import { useTranslation } from 'contexts/Localization'
 import { useUserPredictionChainlinkChartDisclaimerShow } from 'state/user/hooks'

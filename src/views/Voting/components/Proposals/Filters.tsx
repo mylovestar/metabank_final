@@ -1,5 +1,5 @@
 import { ChangeEvent } from 'react'
-import { Flex, Radio, Text } from '@metabank/uikit'
+import { Flex, Radio, Text } from '@metabankswap/uikit'
 import styled from 'styled-components'
 import { useTranslation } from 'contexts/Localization'
 import { ProposalState } from 'state/types'

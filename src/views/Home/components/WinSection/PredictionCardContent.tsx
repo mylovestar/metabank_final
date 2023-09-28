@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 import styled from 'styled-components'
-import { Flex, Text, Skeleton, Button, ArrowForwardIcon, Heading } from '@metabank/uikit'
+import { Flex, Text, Skeleton, Button, ArrowForwardIcon, Heading } from '@metabankswap/uikit'
 import { NextLinkFromReactRouter } from 'components/NextLink'
 import { useTranslation } from 'contexts/Localization'
 import { formatLocalisedCompactNumber } from 'utils/formatBalance'

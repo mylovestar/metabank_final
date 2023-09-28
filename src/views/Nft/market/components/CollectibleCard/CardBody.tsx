@@ -1,4 +1,4 @@
-import { Box, CardBody, Flex, Text } from '@metabank/uikit'
+import { Box, CardBody, Flex, Text } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { useBNBBusdPrice } from 'hooks/useBUSDPrice'
 import PreviewImage from './PreviewImage'

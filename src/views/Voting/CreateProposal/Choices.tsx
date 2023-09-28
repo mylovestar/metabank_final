@@ -1,4 +1,4 @@
-import { Button, Card, CardBody, CardHeader, Heading } from '@metabank/uikit'
+import { Button, Card, CardBody, CardHeader, Heading } from '@metabankswap/uikit'
 import uniqueId from 'lodash/uniqueId'
 import { useTranslation } from 'contexts/Localization'
 import Choice from './Choice'

@@ -1,4 +1,4 @@
-import { Flex, UserMenuItem, WarningIcon } from '@metabank/uikit'
+import { Flex, UserMenuItem, WarningIcon } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 
 interface WalletUserMenuItemProps {

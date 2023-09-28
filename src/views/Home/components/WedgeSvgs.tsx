@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Svg, SvgProps } from '@metabank/uikit'
+import { Svg, SvgProps } from '@metabankswap/uikit'
 
 export const OuterWedgeWrapper = styled.div`
   z-index: -1;

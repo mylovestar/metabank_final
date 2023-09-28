@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { Button, Card, CardBody, CardFooter, Link, Text, Heading } from '@metabank/uikit'
+import { Button, Card, CardBody, CardFooter, Link, Text, Heading } from '@metabankswap/uikit'
 import useActiveWeb3React from 'hooks/useActiveWeb3React';
 import copy from 'copy-to-clipboard';
 import styled from 'styled-components'

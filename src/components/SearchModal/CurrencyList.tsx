@@ -1,6 +1,6 @@
 import { CSSProperties, MutableRefObject, useCallback, useMemo } from 'react'
-import { Currency, CurrencyAmount, currencyEquals, ETHER, Token } from '@metabank/sdk'
-import { Text } from '@metabank/uikit'
+import { Currency, CurrencyAmount, currencyEquals, ETHER, Token } from '@metabankswap/sdk'
+import { Text } from '@metabankswap/uikit'
 import styled from 'styled-components'
 import { FixedSizeList } from 'react-window'
 import { wrappedCurrency } from 'utils/wrappedCurrency'

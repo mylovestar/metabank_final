@@ -1,4 +1,4 @@
-import { Currency } from '@metabank/sdk'
+import { Currency } from '@metabankswap/sdk'
 import styled from 'styled-components'
 import CurrencyLogo from './CurrencyLogo'
 

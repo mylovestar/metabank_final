@@ -1,4 +1,4 @@
-import { BunnyPlaceholderIcon, Flex, Heading } from '@metabank/uikit'
+import { BunnyPlaceholderIcon, Flex, Heading } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 
 interface ComingSoonProps {

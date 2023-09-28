@@ -12,7 +12,7 @@ import {
   SubMenu,
   SubMenuItem,
   useModal,
-} from '@metabank/uikit'
+} from '@metabankswap/uikit'
 import { PredictionUser } from 'state/types'
 import { useProfileForAddress } from 'state/profile/hooks'
 import styled from 'styled-components'

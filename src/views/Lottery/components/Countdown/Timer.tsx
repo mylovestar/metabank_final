@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Flex, Heading } from '@metabank/uikit'
+import { Flex, Heading } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 
 export interface TimerProps {

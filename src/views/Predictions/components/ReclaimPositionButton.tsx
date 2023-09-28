@@ -1,5 +1,5 @@
 import { ReactNode } from 'react'
-import { AutoRenewIcon, Button, ButtonProps } from '@metabank/uikit'
+import { AutoRenewIcon, Button, ButtonProps } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { usePredictionsContract } from 'hooks/useContract'
 import useToast from 'hooks/useToast'

@@ -1,4 +1,4 @@
-import { Flex, Skeleton } from '@metabank/uikit'
+import { Flex, Skeleton } from '@metabankswap/uikit'
 
 export const SkeletonCardActions = () => {
   return <Skeleton height="48px" />

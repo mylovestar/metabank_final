@@ -1,4 +1,4 @@
-import { Heading, Button, Text } from '@metabank/uikit'
+import { Heading, Button, Text } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { CompetitionProps } from 'views/TradingCompetition/types'
 import { nftsBaseUrl } from 'views/Nft/market/constants'

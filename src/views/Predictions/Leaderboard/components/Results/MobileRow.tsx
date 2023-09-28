@@ -1,4 +1,4 @@
-import { Box, Text } from '@metabank/uikit'
+import { Box, Text } from '@metabankswap/uikit'
 import { PredictionUser } from 'state/types'
 import styled from 'styled-components'
 import { useTranslation } from 'contexts/Localization'

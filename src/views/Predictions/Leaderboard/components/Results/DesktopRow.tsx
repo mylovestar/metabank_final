@@ -1,4 +1,4 @@
-import { Td, Text } from '@metabank/uikit'
+import { Td, Text } from '@metabankswap/uikit'
 import { PredictionUser } from 'state/types'
 import ResultAvatar from './ResultAvatar'
 import { NetWinnings } from './styles'

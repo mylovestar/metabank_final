@@ -1,4 +1,4 @@
-import { CardHeader, Flex, Heading, Text } from '@metabank/uikit'
+import { CardHeader, Flex, Heading, Text } from '@metabankswap/uikit'
 import { ReactNode } from 'react'
 import styled from 'styled-components'
 

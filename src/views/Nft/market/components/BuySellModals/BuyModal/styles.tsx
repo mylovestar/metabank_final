@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Modal, Grid, Flex, Text, BinanceIcon, Skeleton } from '@metabank/uikit'
+import { Modal, Grid, Flex, Text, BinanceIcon, Skeleton } from '@metabankswap/uikit'
 import { useBNBBusdPrice } from 'hooks/useBUSDPrice'
 import { multiplyPriceByAmount } from 'utils/prices'
 import { BuyingStage } from './types'

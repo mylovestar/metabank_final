@@ -1,4 +1,4 @@
-import { Heading, Text } from '@metabank/uikit'
+import { Heading, Text } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import ConnectWalletButton from 'components/ConnectWalletButton'
 

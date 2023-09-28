@@ -8,7 +8,7 @@ import {
   IconButton,
   ChevronUpIcon,
   ChevronDownIcon,
-} from '@metabank/uikit'
+} from '@metabankswap/uikit'
 
 interface CollapsibleCardProps extends CardProps {
   initialOpenState?: boolean

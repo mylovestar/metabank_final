@@ -1,4 +1,4 @@
-import { Token, Pair, ChainId } from '@metabank/sdk'
+import { Token, Pair, ChainId } from '@metabankswap/sdk'
 import { isAddress } from 'utils'
 
 const getLpAddress = (token1: string | Token, token2: string | Token) => {

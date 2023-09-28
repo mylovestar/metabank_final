@@ -1,6 +1,6 @@
 /* eslint-disable react-hooks/exhaustive-deps */
 import { useContext, useEffect, useState } from 'react'
-import { Button, useModal } from '@metabank/uikit'
+import { Button, useModal } from '@metabankswap/uikit'
 import { ContextApi } from 'contexts/Localization/types'
 import { ToastDescriptionWithTx } from 'components/Toast'
 import { BigNumber } from '@ethersproject/bignumber'

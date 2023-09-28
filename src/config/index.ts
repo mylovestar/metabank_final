@@ -1,4 +1,4 @@
-import { ChainId } from '@metabank/sdk'
+import { ChainId } from '@metabankswap/sdk'
 import BigNumber from 'bignumber.js/bignumber'
 import { BIG_TEN } from 'utils/bigNumber'
 

@@ -1,4 +1,4 @@
-import { Heading, TextProps } from '@metabank/uikit'
+import { Heading, TextProps } from '@metabankswap/uikit'
 import useTheme from 'hooks/useTheme'
 
 interface HeadingProps extends TextProps {

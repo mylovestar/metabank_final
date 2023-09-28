@@ -1,4 +1,4 @@
-import { Flex, Text, Button, Spinner } from '@metabank/uikit'
+import { Flex, Text, Button, Spinner } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { StepIndicator } from './styles'
 

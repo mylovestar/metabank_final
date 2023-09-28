@@ -3,9 +3,9 @@ import {
   TokenPairImageProps as UIKitTokenPairImageProps,
   TokenImage as UIKitTokenImage,
   ImageProps,
-} from '@metabank/uikit'
+} from '@metabankswap/uikit'
 import tokens from 'config/constants/tokens'
-import { Token } from '@metabank/sdk'
+import { Token } from '@metabankswap/sdk'
 
 interface TokenPairImageProps extends Omit<UIKitTokenPairImageProps, 'primarySrc' | 'secondarySrc'> {
   primaryToken: Token

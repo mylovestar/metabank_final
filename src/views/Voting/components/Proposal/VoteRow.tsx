@@ -1,4 +1,4 @@
-import { Flex, LinkExternal, Text, Tag, CheckmarkCircleIcon } from '@metabank/uikit'
+import { Flex, LinkExternal, Text, Tag, CheckmarkCircleIcon } from '@metabankswap/uikit'
 import truncateHash from 'utils/truncateHash'
 import { getBscScanLink } from 'utils'
 import { useTranslation } from 'contexts/Localization'

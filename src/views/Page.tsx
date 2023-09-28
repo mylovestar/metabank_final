@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Box, Flex, Link } from '@metabank/uikit'
+import { Box, Flex, Link } from '@metabankswap/uikit'
 import Footer from 'components/Menu/Footer'
 import { PageMeta } from 'components/Layout/Page'
 

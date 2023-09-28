@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { ChevronDownIcon, useMatchBreakpoints } from '@metabank/uikit'
+import { ChevronDownIcon, useMatchBreakpoints } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 
 interface DetailsProps {

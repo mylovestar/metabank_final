@@ -11,7 +11,7 @@ import {
   ModalTitle,
   Heading,
   Box,
-} from '@metabank/uikit'
+} from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import styled from 'styled-components'
 

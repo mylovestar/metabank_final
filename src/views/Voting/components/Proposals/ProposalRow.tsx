@@ -1,4 +1,4 @@
-import { ArrowForwardIcon, Box, IconButton, Flex, Text } from '@metabank/uikit'
+import { ArrowForwardIcon, Box, IconButton, Flex, Text } from '@metabankswap/uikit'
 import styled from 'styled-components'
 import { NextLinkFromReactRouter } from 'components/NextLink'
 import { Proposal } from 'state/types'

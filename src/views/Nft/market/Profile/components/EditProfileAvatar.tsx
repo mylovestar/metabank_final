@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { useModal } from '@metabank/uikit'
+import { useModal } from '@metabankswap/uikit'
 import AvatarImage from 'views/Nft/market/components/BannerHeader/AvatarImage'
 import EditProfileModal from './EditProfileModal'
 

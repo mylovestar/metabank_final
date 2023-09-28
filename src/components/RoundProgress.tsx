@@ -1,4 +1,4 @@
-import { Progress, ProgressProps } from '@metabank/uikit'
+import { Progress, ProgressProps } from '@metabankswap/uikit'
 
 interface RoundProgressProps extends ProgressProps {
   lockTimestamp: number

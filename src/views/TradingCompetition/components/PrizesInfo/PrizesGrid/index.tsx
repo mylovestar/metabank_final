@@ -11,7 +11,7 @@ import {
   Tab,
   TabMenu,
   Text,
-} from '@metabank/uikit'
+} from '@metabankswap/uikit'
 import Image from 'next/image'
 import Trans from 'components/Trans'
 import prizes, { Tiers } from 'config/constants/trading-competition/prizes'

@@ -1,4 +1,4 @@
-import { Flex } from '@metabank/uikit'
+import { Flex } from '@metabankswap/uikit'
 import { useWeb3React } from '@web3-react/core'
 import FarmAuctionsBanner from './FarmAuctionsBanner'
 import IFOBanner from './IFOBanner'

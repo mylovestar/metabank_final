@@ -1,6 +1,6 @@
 import styled from 'styled-components'
-import { Tag, Flex, Heading, Skeleton } from '@metabank/uikit'
-import { Token } from '@metabank/sdk'
+import { Tag, Flex, Heading, Skeleton } from '@metabankswap/uikit'
+import { Token } from '@metabankswap/sdk'
 import { FarmAuctionTag, CoreTag } from 'components/Tags'
 import { TokenPairImage } from 'components/TokenImage'
 import tokens from 'config/constants/tokens'

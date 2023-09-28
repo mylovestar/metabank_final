@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { AutoRenewIcon, Button, Flex } from '@metabank/uikit'
+import { AutoRenewIcon, Button, Flex } from '@metabankswap/uikit'
 import { Achievement } from 'state/types'
 import useToast from 'hooks/useToast'
 import { useTranslation } from 'contexts/Localization'

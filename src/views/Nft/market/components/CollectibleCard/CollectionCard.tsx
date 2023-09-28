@@ -1,4 +1,4 @@
-import { Card, CardBody, Flex, Heading, ProfileAvatar } from '@metabank/uikit'
+import { Card, CardBody, Flex, Heading, ProfileAvatar } from '@metabankswap/uikit'
 
 import Image from 'next/image'
 import { NextLinkFromReactRouter } from 'components/NextLink'

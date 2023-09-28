@@ -1,5 +1,5 @@
 import { useState, useEffect, useMemo } from 'react'
-import { Flex, Text, Skeleton, Button, ArrowForwardIcon } from '@metabank/uikit'
+import { Flex, Text, Skeleton, Button, ArrowForwardIcon } from '@metabankswap/uikit'
 import { NextLinkFromReactRouter } from 'components/NextLink'
 import { useTranslation } from 'contexts/Localization'
 import useIntersectionObserver from 'hooks/useIntersectionObserver'

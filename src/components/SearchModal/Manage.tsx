@@ -1,6 +1,6 @@
 import { useState } from 'react'
-import { Token } from '@metabank/sdk'
-import { ButtonMenu, ButtonMenuItem, ModalBody } from '@metabank/uikit'
+import { Token } from '@metabankswap/sdk'
+import { ButtonMenu, ButtonMenuItem, ModalBody } from '@metabankswap/uikit'
 import styled from 'styled-components'
 import { TokenList } from '@uniswap/token-lists'
 import { useTranslation } from 'contexts/Localization'

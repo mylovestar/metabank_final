@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Heading, Card, CardBody } from '@metabank/uikit'
+import { Heading, Card, CardBody } from '@metabankswap/uikit'
 
 interface HowToCardProps {
   number?: number

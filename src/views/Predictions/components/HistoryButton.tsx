@@ -1,5 +1,5 @@
 import { useWeb3React } from '@web3-react/core'
-import { AutoRenewIcon, HistoryIcon, IconButton } from '@metabank/uikit'
+import { AutoRenewIcon, HistoryIcon, IconButton } from '@metabankswap/uikit'
 import { useAppDispatch } from 'state'
 import { setHistoryPaneState } from 'state/predictions'
 import { useGetIsFetchingHistory } from 'state/predictions/hooks'

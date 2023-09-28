@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useState } from 'react'
-import { Currency, ETHER, JSBI, TokenAmount } from '@metabank/sdk'
-import { Button, ChevronDownIcon, Text, AddIcon, useModal } from '@metabank/uikit'
+import { Currency, ETHER, JSBI, TokenAmount } from '@metabankswap/sdk'
+import { Button, ChevronDownIcon, Text, AddIcon, useModal } from '@metabankswap/uikit'
 import styled from 'styled-components'
 import { useTranslation } from 'contexts/Localization'
 import { NextLinkFromReactRouter } from 'components/NextLink'

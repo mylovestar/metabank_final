@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from 'react'
 import { useRouter } from 'next/router'
-import { useModal } from '@metabank/uikit'
+import { useModal } from '@metabankswap/uikit'
 import { useWeb3React } from '@web3-react/core'
 import dynamic from 'next/dynamic'
 import { getAnniversaryAchievementContract } from 'utils/contractHelpers'

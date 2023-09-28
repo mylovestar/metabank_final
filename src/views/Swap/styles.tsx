@@ -1,4 +1,4 @@
-import { Box, Flex } from '@metabank/uikit'
+import { Box, Flex } from '@metabankswap/uikit'
 import styled from 'styled-components'
 
 export const StyledSwapContainer = styled(Flex)<{ $isChartExpanded: boolean }>`

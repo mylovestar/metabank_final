@@ -1,5 +1,5 @@
-import { Currency, ETHER, Token } from '@metabank/sdk'
-import { BinanceIcon } from '@metabank/uikit'
+import { Currency, ETHER, Token } from '@metabankswap/sdk'
+import { BinanceIcon } from '@metabankswap/uikit'
 import { useMemo } from 'react'
 import styled from 'styled-components'
 import useHttpLocations from '../../hooks/useHttpLocations'

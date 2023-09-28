@@ -1,4 +1,4 @@
-import { CurrencyAmount, ETHER, JSBI } from '@metabank/sdk'
+import { CurrencyAmount, ETHER, JSBI } from '@metabankswap/sdk'
 import { MIN_BNB } from '../config/constants'
 
 /**

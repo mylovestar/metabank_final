@@ -1,6 +1,6 @@
 import { CSSProperties } from 'react'
-import { Token } from '@metabank/sdk'
-import { Button, Text, CheckmarkCircleIcon } from '@metabank/uikit'
+import { Token } from '@metabankswap/sdk'
+import { Button, Text, CheckmarkCircleIcon } from '@metabankswap/uikit'
 import { AutoRow, RowFixed } from 'components/Layout/Row'
 import { AutoColumn } from 'components/Layout/Column'
 import CurrencyLogo from 'components/Logo/CurrencyLogo'

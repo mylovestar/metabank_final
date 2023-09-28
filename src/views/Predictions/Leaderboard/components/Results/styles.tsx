@@ -1,4 +1,4 @@
-import { Flex, FlexProps, Text } from '@metabank/uikit'
+import { Flex, FlexProps, Text } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import { useBNBBusdPrice } from 'hooks/useBUSDPrice'
 import { multiplyPriceByAmount } from 'utils/prices'

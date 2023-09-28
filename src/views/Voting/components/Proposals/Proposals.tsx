@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { Box, Breadcrumbs, Card, Flex, Heading, Text } from '@metabank/uikit'
+import { Box, Breadcrumbs, Card, Flex, Heading, Text } from '@metabankswap/uikit'
 import Link from 'next/link'
 import { useTranslation } from 'contexts/Localization'
 import Container from 'components/Layout/Container'

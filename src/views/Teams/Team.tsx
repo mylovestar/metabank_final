@@ -1,4 +1,4 @@
-import { ChevronLeftIcon, Flex, Text } from '@metabank/uikit'
+import { ChevronLeftIcon, Flex, Text } from '@metabankswap/uikit'
 import Page from 'components/Layout/Page'
 import { useTranslation } from 'contexts/Localization'
 import { useRouter } from 'next/router'

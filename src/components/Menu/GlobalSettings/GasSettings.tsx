@@ -1,4 +1,4 @@
-import { Flex, Button, Text } from '@metabank/uikit'
+import { Flex, Button, Text } from '@metabankswap/uikit'
 import QuestionHelper from 'components/QuestionHelper'
 import { useTranslation } from 'contexts/Localization'
 import { GAS_PRICE_GWEI, GAS_PRICE } from 'state/user/hooks/helpers'

@@ -1,6 +1,6 @@
 import { useCallback, useMemo } from 'react'
-import { currencyEquals, Trade } from '@metabank/sdk'
-import { InjectedModalProps } from '@metabank/uikit'
+import { currencyEquals, Trade } from '@metabankswap/sdk'
+import { InjectedModalProps } from '@metabankswap/uikit'
 import { useTranslation } from 'contexts/Localization'
 import TransactionConfirmationModal, {
   ConfirmationModalContent,

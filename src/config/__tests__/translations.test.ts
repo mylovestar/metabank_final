@@ -53,7 +53,7 @@ describe('Check translations available', () => {
   }
 
   throughDirectory('src/')
-  throughDirectory('node_modules/@metabank/uikit/dist', true)
+  throughDirectory('node_modules/@metabankswap/uikit/dist', true)
 
   let match
 
