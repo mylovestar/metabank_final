@@ -13,7 +13,8 @@ const GlobalStyle = createGlobalStyle`
   }
   body {
     // background-color: ${({ theme }) => theme.colors.background};
-    background: linear-gradient(250deg, rgb(0, 3, 22) 33.3%, rgb(4, 15, 49));
+    // background: linear-gradient(250deg, rgb(0, 3, 22) 33.3%, rgb(4, 15, 49));
+    background: rgb(0, 3, 22);
 
     img {
       height: auto;
